@@ -8,3 +8,11 @@ body{
 	color:red;
 	-webkit-text-stroke: 1px black;
 	}
+div{
+	width: 1800px; 
+height: 6800px; 
+border: 2px solid black;
+	}
+	a {
+	color: green;
+	}
